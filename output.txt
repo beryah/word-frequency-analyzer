@@ -1,0 +1,6 @@
+<how> occurred 3 times
+<are> occurred 2 times
+<you> occurred 1 times
+<I> occurred 1 times
+<am> occurred 1 times
+<fine> occurred 2 times
